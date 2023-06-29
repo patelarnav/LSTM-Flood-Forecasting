@@ -6,7 +6,7 @@ Forecasting flow of river Mahanadi
  
  run data-preparation.ipynb
  
- run eds.ipynb
+ run eda.ipynb
  
  run model.ipynb
 
